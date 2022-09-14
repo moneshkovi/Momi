@@ -3,7 +3,7 @@ import speech_recognition as sr
 from datetime import datetime
 import wikipedia
 import webbrowser
-import os
+import os 
 import smtplib 
 from random import randint
 import pyowm
