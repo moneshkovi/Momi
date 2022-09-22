@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, Text, NW
-from PIL import ImageTk,Image
+from PIL import ImageTk,Image 
 import os
 
 root = tk.Tk()
