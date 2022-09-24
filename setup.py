@@ -5,7 +5,7 @@ setup(
     name = "jarvis",
     options = ("build_exe":f('packages':['pyttsx3','speech_recognition','selenium','pyautogui','winsound','pyowm']))
     executables={
-          Executables(
+          Executables( 
               "jarvis.py",
  
 
