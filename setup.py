@@ -1,4 +1,4 @@
-import cx_Freeze
+import cx_Freeze 
 from cx_Freeze import *
 
 setup(
