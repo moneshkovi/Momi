@@ -3,7 +3,7 @@ from tkinter import filedialog, Text, NW
 from PIL import ImageTk,Image 
 import os
 
-root = tk.Tk()
+root = tk.Tk()     
 apps=[]
 
 if os.path.isfile('save.txt'):
